@@ -1,4 +1,4 @@
 # Truffle_demo
 
-- Smart contract trufffle deployment structure
+- Smart contract truffle deployment structure
 - web3.js interaction samples
